@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
 
 ## Demo
-[click here to demo.]([Angular CLI](https://platzi-store-9ccbd.firebaseapp.com/))
+[click here to demo.]([Project ](https://platzi-store-9ccbd.firebaseapp.com/))
 
 
 ## Development server
